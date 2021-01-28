@@ -1,0 +1,22 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.0.0",
+    "console-clear": "^1.1.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "figures": "^3.2.0",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0"
+  }
+}

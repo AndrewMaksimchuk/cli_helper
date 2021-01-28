@@ -1,0 +1,22 @@
+[
+	{
+		"name": "default.py",
+		"code": "/templates/default.py"
+	},
+	{
+		"name": "create_workbook_simple.py",
+		"code": "/templates/create_workbook_simple.py"
+	},
+	{
+		"name": "create_workbook_add_row.py",
+		"code": "/templates/create_workbook_add_row.py"
+	},
+	{
+		"name": "create_workbook_simple_with_description.py",
+		"code": "/templates/create_workbook_simple_with_description.py"
+	},
+	{
+		"name": "create_workbook_simple_list.py",
+		"code": "/templates/create_workbook_simple_list.py.py"
+	}
+]
